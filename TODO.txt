@@ -1,0 +1,4 @@
+Idée de sujet pour le projet ML :
+
+ - Reconnaître si une image est un même
+ - Déterminer angle et vitesse initiale
