@@ -25,8 +25,8 @@ def creer_trajectoire(angle,vi):
 # plt.show()
 
 
-Langles = np.linspace(0.1,np.pi/4,30)
-Lvi = np.linspace(1,50,30)
+Langles = np.linspace(np.pi/8,np.pi/4,30)
+Lvi = np.linspace(10,50,30)
 
 compteur = 0
 for Vi in Lvi:
